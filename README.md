@@ -88,6 +88,6 @@ Deployment will depend on your host. Be sure to check their specific instruction
 
 ## Authors
 
-- Songsen Chen - *Initial work* - [sc-stack](https://github.com/sc-stack)
+[sc-stack](https://github.com/sc-stack)
 
 
