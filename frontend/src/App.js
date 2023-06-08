@@ -5,7 +5,6 @@ import { About, Header, Work, Skills, Testimonial, Footer } from './container/in
 import { NavBar } from './components/index.js';
 import "./App.scss";
 
-//stopped at 29 min 29 sec - https://www.youtube.com/watch?v=3HNyXCPDQ7Q
 
 const App = () => {
     return (
@@ -15,7 +14,7 @@ const App = () => {
             <About />
             <Work />
             <Skills />
-            <Testimonial />
+            {/*<Testimonial />*/}
             <Footer />
         </div>
     );
