@@ -75,7 +75,7 @@ Before you begin, ensure you have the following installed on your local developm
 
    The Sanity Studio will start on `localhost:3333`.
 
-Now, you're all set to begin development!
+Now, you're all set to begin development! (Note: You may have to do some extra sanity configuration) Please refer to official documentation for such cases
 
 ## Deploying
 
